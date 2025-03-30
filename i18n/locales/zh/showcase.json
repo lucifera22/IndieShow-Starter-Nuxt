@@ -15,12 +15,12 @@
   },
   "items": {
     "project1": {
-      "title": "IndieShow",
+      "title": "IndieShow-Nuxt",
       "description": "基于 Nuxt 3 的产品展示官网模板",
       "qr_code_description": "扫描二维码体验"
     },
     "project2": {
-      "title": "WaveAny",
+      "title": "IndieShow-Nextjs",
       "description": "基于 Next.js 15 的产品展示官网模板",
       "qr_code_description": "扫描二维码体验"
     },

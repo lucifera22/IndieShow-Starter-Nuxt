@@ -29,7 +29,7 @@ export const showcaseConfig: ShowcaseConfig = {
       platforms: [{ name: "Web", icon: "simple-icons:googlechrome" }],
       qrCode: "/images/showcase/qr-code-2.png",
       tags: [
-        { name: "Vue.js", icon: "lucide:code", color: "text-emerald-500" },
+        { name: "Next.js", icon: "lucide:code", color: "text-emerald-500" },
         {
           name: "TypeScript",
           icon: "lucide:file-code",

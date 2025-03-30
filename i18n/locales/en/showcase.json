@@ -15,13 +15,13 @@
   },
   "items": {
     "project1": {
-      "title": "IndieShow",
+      "title": "IndieShow-Nuxt",
       "description": "Nuxt 3 template for Indie Show, no coding required.",
       "qr_code_description": "Scan the QR code to experience"
     },
     "project2": {
-      "title": "WaveAny",
-      "description": "Nuxt 3 template for Indie Sale, no coding required.",
+      "title": "IndieShow-Nextjs",
+      "description": "Next.js 15 template for Indie Show, no coding required.",
       "qr_code_description": "Scan the QR code to experience"
     },
     "project3": {
