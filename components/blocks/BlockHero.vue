@@ -107,7 +107,7 @@ onMounted(() => {
                   font: 'font-bold',
                 }"
                 class="group relative w-[85%] max-w-[280px] overflow-hidden bg-gradient-to-r from-primary-600 to-primary-500 text-white transition-all duration-200 hover:from-primary-500 hover:to-primary-400 hover:shadow-xl hover:shadow-primary-500/20 hover:scale-105 transform-gpu sm:w-auto"
-                to="https://github.com/WaveAny/IndieShow" target="_blank" rel="noopener noreferrer"
+                to="https://github.com/WaveAny/IndieShow-Starter-Nuxt" target="_blank" rel="noopener noreferrer"
               >
                 <div
                   class="absolute inset-0 bg-white/30 transition-transform duration-500 translate-x-[-100%] group-hover:translate-x-[100%] skew-x-12"
