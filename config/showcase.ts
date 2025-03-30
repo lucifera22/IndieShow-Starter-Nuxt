@@ -7,7 +7,7 @@ export const showcaseConfig: ShowcaseConfig = {
       id: "project1",
       type: "web",
       image: "/images/showcase/project1.svg",
-      link: "https://github.com/WaveAny/IndieShow",
+      link: "https://github.com/WaveAny/IndieShow-Starter-Nuxt",
       platforms: [{ name: "Web", icon: "simple-icons:googlechrome" }],
       qrCode: "/images/showcase/qr-code-1.png",
       tags: [
@@ -25,7 +25,7 @@ export const showcaseConfig: ShowcaseConfig = {
       id: "project2",
       type: "web",
       image: "/images/showcase/project1.svg",
-      link: "https://waveany.com/",
+      link: "https://github.com/WaveAny/IndieShow-Starter-Nextjs",
       platforms: [{ name: "Web", icon: "simple-icons:googlechrome" }],
       qrCode: "/images/showcase/qr-code-2.png",
       tags: [

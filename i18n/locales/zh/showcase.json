@@ -21,7 +21,7 @@
     },
     "project2": {
       "title": "WaveAny",
-      "description": "基于 Nuxt 3 的产品展示&售卖模板",
+      "description": "基于 Next.js 15 的产品展示官网模板",
       "qr_code_description": "扫描二维码体验"
     },
     "project3": {

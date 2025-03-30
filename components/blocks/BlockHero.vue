@@ -27,7 +27,7 @@ onMounted(() => {
           <!-- 锚点导航组件 -->
           <UIScrollAnimation animation="fade-down" :duration="1000" :delay="400">
             <UButton
-              to="https://github.com/WaveAny/IndieShow" variant="ghost" target="_blank" rel="noopener noreferrer"
+              to="https://github.com/WaveAny/IndieShow-Starter-Nuxt" variant="ghost" target="_blank" rel="noopener noreferrer"
               class="group relative mb-8 inline-flex items-center gap-1 rounded-full bg-white/80 px-4 py-2 text-sm font-medium text-gray-600 backdrop-blur-sm transition-all duration-300 hover:text-primary-600 dark:bg-gray-800/80 dark:text-gray-300 dark:hover:text-primary-400"
             >
               <!-- 渐变边框动画 -->
