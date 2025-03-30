@@ -1,0 +1,52 @@
+{
+  "title": "My Works",
+  "subtitle": "Explore our innovative projects, each representing a unique solution",
+  "scan_qr": "Scan to Experience",
+  "view_details": "View Details",
+  "status": {
+    "online": "Online",
+    "developing": "In Development"
+  },
+  "categories": {
+    "all": "All",
+    "web": "Web",
+    "mobile": "Mobile",
+    "desktop": "Desktop"
+  },
+  "items": {
+    "project1": {
+      "title": "IndieShow",
+      "description": "Nuxt 3 template for Indie Show, no coding required.",
+      "qr_code_description": "Scan the QR code to experience"
+    },
+    "project2": {
+      "title": "WaveAny",
+      "description": "Nuxt 3 template for Indie Sale, no coding required.",
+      "qr_code_description": "Scan the QR code to experience"
+    },
+    "project3": {
+      "title": "Sample Project",
+      "description": "Sample project description.",
+      "qr_code_description": "Scan the QR code to download the Web version"
+    },
+    "project4": {
+      "title": "Sample Project",
+      "description": "Sample project description.",
+      "qr_code_description": "Scan the QR code to download the Android version"
+    },
+    "project5": {
+      "title": "Sample Project",
+      "description": "Sample project description.",
+      "qr_code_description": "Scan the QR code to download the Android version"
+    },
+    "project6": {
+      "title": "Sample Project",
+      "description": "Sample project description.",
+      "qr_code_description": "Scan the QR code to download the Android version"
+    }
+  },
+  "qr_code": {
+    "title": "Scan to Access",
+    "close": "Close"
+  }
+}

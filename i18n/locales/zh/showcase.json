@@ -1,0 +1,52 @@
+{
+  "title": "我的作品",
+  "subtitle": "探索我们的创新项目，每一个作品都代表着独特的解决方案",
+  "scan_qr": "扫码体验",
+  "view_details": "查看详情",
+  "status": {
+    "online": "已上线",
+    "developing": "开发中"
+  },
+  "categories": {
+    "all": "全部",
+    "web": "Web",
+    "mobile": "移动端",
+    "desktop": "桌面端"
+  },
+  "items": {
+    "project1": {
+      "title": "IndieShow",
+      "description": "基于 Nuxt 3 的产品展示官网模板",
+      "qr_code_description": "扫描二维码体验"
+    },
+    "project2": {
+      "title": "WaveAny",
+      "description": "基于 Nuxt 3 的产品展示&售卖模板",
+      "qr_code_description": "扫描二维码体验"
+    },
+    "project3": {
+      "title": "示例项目",
+      "description": "示例项目描述",
+      "qr_code_description": "扫描二维码下载 Web 版本"
+    },
+    "project4": {
+      "title": "示例项目",
+      "description": "示例项目描述",
+      "qr_code_description": "扫描二维码下载客户端"
+    },
+    "project5": {
+      "title": "示例项目",
+      "description": "示例项目描述",
+      "qr_code_description": "扫描二维码下载 iOS 版本"
+    },
+    "project6": {
+      "title": "示例项目",
+      "description": "示例项目描述",
+      "qr_code_description": "扫描二维码下载 iOS 版本"
+    }
+  },
+  "qr_code": {
+    "title": "扫码访问",
+    "close": "关闭"
+  }
+}

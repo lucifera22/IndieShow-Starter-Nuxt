@@ -1,0 +1,34 @@
+{
+  "defaults": {
+    "title": "Build Your AI Product Showcase Website in Minutes",
+    "description": "IndieShow provides professional website templates for independent developers, entrepreneurs, and small teams. No design or coding required, launch your showcase website in minutes. Offers responsive layout, SEO-friendly structure, and one-click deployment features, saving you time and allowing you to focus on product development! Download the free template now.",
+    "keywords": "IndieShow,WaveAny, AI Product Website, Nuxt JS Template, Nuxt 3 Template, Independent Developer Website Template, Entrepreneur Website Template, Quickly Build Product Website, One-Click Deployment Developer Website, Open Source Website Template Download"
+  },
+  "pages": {
+    "home": {
+      "title": "Build Your AI Product Showcase Website in Minutes",
+      "description": "IndieShow provides professional website templates for independent developers, entrepreneurs, and small teams. No design or coding required, launch your showcase website in minutes. Offers responsive layout, SEO-friendly structure, and one-click deployment features, saving you time and allowing you to focus on product development! Download the free template now.",
+      "keywords": "IndieShow,WaveAny, AI Product Website, Nuxt JS Template, Nuxt 3 Template, Independent Developer Website Template, Entrepreneur Website Template, Quickly Build Product Website, One-Click Deployment Developer Website, Open Source Website Template Download"
+    },
+    "privacy": {
+      "title": "Privacy Policy - Build Your AI Product Showcase Website in Minutes",
+      "description": "Learn how IndieShow collects, uses, and protects your personal information.",
+      "keywords": "Privacy Policy, Data Protection, Personal Information, User Agreement"
+    },
+    "terms": {
+      "title": "Terms of Service - Build Your AI Product Showcase Website in Minutes",
+      "description": "Learn about the terms and conditions of using our services.",
+      "keywords": "Terms of Service, Conditions of Use, Legal Notice, User Agreement"
+    },
+    "group": {
+      "title": "User Community - Build Your AI Product Showcase Website in Minutes",
+      "description": "Join the IndieShow group and connect with like-minded individuals.",
+      "keywords": "Community, Communication, Sharing, Users"
+    },
+    "sales": {
+      "title": "Sales Terms - Build Your AI Product Showcase Website in Minutes",
+      "description": "Learn about IndieShow's sales terms.",
+      "keywords": "Sales Terms"
+    }
+  }
+}

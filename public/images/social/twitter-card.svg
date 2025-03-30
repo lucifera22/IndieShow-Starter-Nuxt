@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景 -->
+    <rect width="1200" height="600" fill="#0EA5E9"/>
+
+    <!-- 装饰性圆形 -->
+    <circle cx="1000" cy="100" r="400" fill="url(#radial)" fill-opacity="0.2"/>
+    <circle cx="200" cy="500" r="300" fill="url(#radial)" fill-opacity="0.15"/>
+
+    <!-- 渐变定义 -->
+    <defs>
+        <radialGradient id="radial" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+            <stop offset="0%" stop-color="white"/>
+            <stop offset="100%" stop-color="#0EA5E9"/>
+        </radialGradient>
+        <linearGradient id="paint0_linear" x1="0" y1="0" x2="1200" y2="600" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#000000" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#0EA5E9"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Logo 和标题 -->
+    <g transform="translate(100, 150)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="white">
+            IndieShow
+        </text>
+    </g>
+
+    <!-- 副标题 -->
+    <text x="100" y="300" font-family="Arial, sans-serif" font-size="36" fill="white" opacity="0.9">
+        打造专业的产品展示网站，只需几分钟
+    </text>
+
+    <!-- 功能标签 -->
+    <g transform="translate(100, 400)">
+        <g>
+            <rect x="0" y="0" width="180" height="40" rx="20" fill="white" fill-opacity="0.2"/>
+            <text x="90" y="28" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle">
+                🎨 主题定制
+            </text>
+        </g>
+        <g transform="translate(200, 0)">
+            <rect x="0" y="0" width="180" height="40" rx="20" fill="white" fill-opacity="0.2"/>
+            <text x="90" y="28" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle">
+                🌍 多语言支持
+            </text>
+        </g>
+        <g transform="translate(400, 0)">
+            <rect x="0" y="0" width="180" height="40" rx="20" fill="white" fill-opacity="0.2"/>
+            <text x="90" y="28" font-family="Arial, sans-serif" font-size="20" fill="white" text-anchor="middle">
+                📱 响应式设计
+            </text>
+        </g>
+    </g>
+
+    <!-- 网站地址 -->
+    <text x="100" y="500" font-family="Arial, sans-serif" font-size="24" fill="white" opacity="0.8">
+        indieshow.waveany.com
+    </text>
+</svg>

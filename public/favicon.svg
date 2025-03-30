@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="32" height="32" rx="8" fill="#4D6BFE"/>
+
+  <!-- W 字母/波浪 -->
+  <path d="M6 8C6 8 8 24 11 24C14 24 16 8 16 8C16 8 18 24 21 24C24 24 26 8 26 8"
+        stroke="white"
+        stroke-width="4"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"
+        style="filter: drop-shadow(0px 1px 2px rgba(0,0,0,0.1))">
+    <animate attributeName="d"
+             dur="3s"
+             repeatCount="indefinite"
+             values="
+               M6 8C6 8 8 24 11 24C14 24 16 8 16 8C16 8 18 24 21 24C24 24 26 8 26 8;
+               M6 10C6 10 8 26 11 26C14 26 16 10 16 10C16 10 18 26 21 26C24 26 26 10 26 10;
+               M6 8C6 8 8 24 11 24C14 24 16 8 16 8C16 8 18 24 21 24C24 24 26 8 26 8"
+             calcMode="spline"
+             keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"/>
+  </path>
+</svg>

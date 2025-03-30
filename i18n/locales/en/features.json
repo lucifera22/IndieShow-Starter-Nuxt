@@ -1,0 +1,32 @@
+{
+  "title": "Why",
+  "subtitle": "indieshow?",
+  "description": "An extremely optimized product website template based on Nuxt 3, quickly build showcase sites. Launch at lightning speed, easily acquire precise traffic, helping independent developers focus on innovation and win at the starting line!",
+  "tech_stack": "Core Technologies",
+  "items": {
+    "iteration": {
+      "title": "Rapid Iteration",
+      "description": "Continuous integration and rapid iterative development to ensure that the project is always up-to-date and improve the development experience."
+    },
+    "performance": {
+      "title": "Extreme Performance",
+      "description": "Utilizing the latest technologies to optimize performance, providing users with a smooth experience and enhancing website access speed."
+    },
+    "deployment": {
+      "title": "Convenient Deployment",
+      "description": "Simple deployment process with an automated publishing system, easily bringing projects online and saving operational costs."
+    },
+    "responsive": {
+      "title": "Responsive Design",
+      "description": "Perfectly adapts to various device sizes, from mobile to desktop, providing a unified user experience."
+    },
+    "global": {
+      "title": "Internationalization Support",
+      "description": "Built-in multilingual support system for easy global deployment, helping products expand into international markets."
+    },
+    "support": {
+      "title": "Technical Support",
+      "description": "Provide professional technical support to ensure that users are worry-free to use the product and solve any problems during the online process."
+    }
+  }
+}

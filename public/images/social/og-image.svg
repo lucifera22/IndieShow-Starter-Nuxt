@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景 -->
+    <rect width="1200" height="630" fill="#0EA5E9"/>
+    <rect width="1200" height="630" fill="url(#gradient)" fill-opacity="0.1"/>
+
+    <!-- 渐变定义 -->
+    <defs>
+        <linearGradient id="gradient" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#60A5FA"/>
+            <stop offset="100%" stop-color="#3B82F6"/>
+        </linearGradient>
+
+        <!-- 波浪图案 -->
+        <pattern id="waves" x="0" y="0" width="200" height="200" patternUnits="userSpaceOnUse">
+            <path d="M0 25C50 25 50 75 100 75C150 75 150 25 200 25" stroke="white" stroke-opacity="0.1" stroke-width="2" fill="none"/>
+            <path d="M0 50C50 50 50 100 100 100C150 100 150 50 200 50" stroke="white" stroke-opacity="0.1" stroke-width="2" fill="none"/>
+            <path d="M0 75C50 75 50 125 100 125C150 125 150 75 200 75" stroke="white" stroke-opacity="0.1" stroke-width="2" fill="none"/>
+        </pattern>
+    </defs>
+
+    <!-- 波浪背景 -->
+    <rect width="1200" height="630" fill="url(#waves)"/>
+
+    <!-- Logo -->
+    <g transform="translate(100, 180)">
+        <text x="0" y="0" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white">IndieSHow</text>
+        <text x="0" y="100" font-family="Arial, sans-serif" font-size="48" fill="white">ProductShow</text>
+    </g>
+
+    <!-- 描述文本 -->
+    <text x="100" y="400" font-family="Arial, sans-serif" font-size="32" fill="white" opacity="0.9">
+        专业的产品展示官网模板
+    </text>
+
+    <!-- 特性列表 -->
+    <g transform="translate(100, 450)" fill="white" opacity="0.8" font-family="Arial, sans-serif" font-size="24">
+        <text x="0" y="0">🚀 快速部署</text>
+        <text x="200" y="0">🎨 高性能</text>
+        <text x="400" y="0">🌍 国际化</text>
+        <text x="600" y="0">📱 响应式设计</text>
+    </g>
+</svg>

@@ -1,0 +1,67 @@
+{
+  "theme_switch": {
+    "toggle_theme": "Toggle Theme",
+    "tooltip": "Switch between light/dark mode",
+    "aria": {
+      "light_mode": "Currently in light mode",
+      "dark_mode": "Currently in dark mode"
+    }
+  },
+  "back_to_top": {
+    "label": "Back to Top"
+  },
+  "locale_switch": {
+    "toggle_locale": "Switch Language",
+    "tooltip": "Switch between Chinese/English",
+    "qr_code_alt": "QR Code Image - {title}"
+  },
+  "loading": {
+    "title": "Loading",
+    "description": "Please wait, we are preparing content for you..."
+  },
+  "offline": {
+    "title": "You Are Offline",
+    "description": "Please check your network connection and try again",
+    "retry": "Reconnect",
+    "status": "Network connection has been lost"
+  },
+  "error_page": {
+    "title": "Oops! Something Went Wrong",
+    "description": "Sorry, we couldn't find the page you were looking for",
+    "back_home": "Back to Home",
+    "status": {
+      "404": "Page Not Found",
+      "500": "Server Error",
+      "default": "An error occurred"
+    }
+  },
+  "aria": {
+    "open_menu": "Open Menu",
+    "close_menu": "Close Menu",
+    "toggle_menu": "Toggle Menu",
+    "view_project": "View Project - {title}",
+    "open_qrcode": "Open QR Code - {title}",
+    "close_qrcode": "Close QR Code",
+    "open_link": "Open Link - {title}",
+    "select_language": "Select Language - {name}",
+    "current_language": "The currently selected language is {name}",
+    "bookmark_site": "Bookmark This Site",
+    "social_media": "Social Media - {platform}"
+  },
+  "showcase": {
+    "aria": {
+      "filter_projects": "Filter Project List",
+      "current_filter": "Current Filter Category: {category}",
+      "project_card": "Project Card - {title}",
+      "project_status": "Project Status: {status}",
+      "project_description": "Project Description: {description}",
+      "project_tags": "Technologies Used in the Project",
+      "project_platforms": "Supported Platforms",
+      "loading_projects": "Loading Project List",
+      "view_project_details": "View Details of Project {title}",
+      "open_project_qrcode": "Open QR Code for Project {title}",
+      "project_tag": "Technology Tag: {name}",
+      "more_tags": "There are {count} more technology tags"
+    }
+  }
+}

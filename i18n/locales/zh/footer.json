@@ -1,0 +1,31 @@
+{
+  "description": "一个用于构建开发者产品展示官网的 Nuxt 3 模板，无需代码，让您专注产品创造。",
+  "copyright": "保留所有权利",
+  "icp": "京ICP备XXXXXX号",
+  "police": "京公网安备XXXXXX号",
+
+  "about": "关于",
+  "privacy": "隐私政策",
+  "terms": "服务条款",
+  "sales": "销售条款",
+
+  "features": "功能特点",
+  "showcase": "我的作品",
+
+  "support": "技术支持",
+  "contact": "联系我们",
+  "community": "用户交流",
+
+  "social": {
+    "github": "GitHub",
+    "email": "邮件联系"
+  },
+
+  "friends": "友情链接",
+  "friends_links": {
+    "0": {
+      "name": "WaveAny Inc.",
+      "url": "https://waveany.com"
+    }
+  }
+}

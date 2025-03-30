@@ -1,0 +1,32 @@
+{
+  "title": "什么是",
+  "subtitle": "IndieShow？",
+  "description": "基于 Nuxt 的极致优化产品官网模板，快速构建展示站点。极速上线，轻松获取精准流量，助力独立开发者专注创新，赢在起跑线！",
+  "tech_stack": "核心技术",
+  "items": {
+    "iteration": {
+      "title": "快速迭代",
+      "description": "持续集成和快速迭代开发，确保项目始终保持最新状态，提升开发体验。"
+    },
+    "performance": {
+      "title": "极致性能",
+      "description": "采用最新技术优化性能表现，为用户带来流畅的使用体验，提升网站访问速度。"
+    },
+    "deployment": {
+      "title": "便捷部署",
+      "description": "简单的部署流程，自动化的发布系统，轻松实现项目上线，节省运维成本。"
+    },
+    "responsive": {
+      "title": "响应式设计",
+      "description": "完美适配各种设备尺寸，从手机到桌面端，提供统一的用户体验。"
+    },
+    "global": {
+      "title": "国际化支持",
+      "description": "内置多语言支持系统，轻松实现全球化部署，助力产品拓展国际市场。"
+    },
+    "support": {
+      "title": "技术支持",
+      "description": "提供专业的技术支持，确保用户使用产品无忧，解决上线过程中的任何问题。"
+    }
+  }
+}

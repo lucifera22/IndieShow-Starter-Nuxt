@@ -1,0 +1,67 @@
+{
+  "theme_switch": {
+    "toggle_theme": "切换主题",
+    "tooltip": "切换浅色/深色模式",
+    "aria": {
+      "light_mode": "当前为浅色模式",
+      "dark_mode": "当前为深色模式"
+    }
+  },
+  "back_to_top": {
+    "label": "返回顶部"
+  },
+  "locale_switch": {
+    "toggle_locale": "切换语言",
+    "tooltip": "切换中文/英文",
+    "qr_code_alt": "二维码图片 - {title}"
+  },
+  "loading": {
+    "title": "正在加载",
+    "description": "请稍候，我们正在为您准备内容..."
+  },
+  "offline": {
+    "title": "您已离线",
+    "description": "请检查您的网络连接并重试",
+    "retry": "重新连接",
+    "status": "网络连接已断开"
+  },
+  "error_page": {
+    "title": "哎呀！出错了",
+    "description": "抱歉，我们无法找到您要访问的页面",
+    "back_home": "返回首页",
+    "status": {
+      "404": "页面未找到",
+      "500": "服务器错误",
+      "default": "发生错误"
+    }
+  },
+  "aria": {
+    "open_menu": "打开菜单",
+    "close_menu": "关闭菜单",
+    "toggle_menu": "切换菜单",
+    "view_project": "查看项目 - {title}",
+    "open_qrcode": "打开二维码 - {title}",
+    "close_qrcode": "关闭二维码",
+    "open_link": "打开链接 - {title}",
+    "select_language": "选择语言 - {name}",
+    "current_language": "当前选择的语言是 {name}",
+    "bookmark_site": "收藏本站",
+    "social_media": "社交媒体 - {platform}"
+  },
+  "showcase": {
+    "aria": {
+      "filter_projects": "筛选项目列表",
+      "current_filter": "当前筛选类别：{category}",
+      "project_card": "项目卡片 - {title}",
+      "project_status": "项目状态：{status}",
+      "project_description": "项目描述：{description}",
+      "project_tags": "项目使用的技术标签",
+      "project_platforms": "支持的平台",
+      "loading_projects": "正在加载项目列表",
+      "view_project_details": "查看项目 {title} 的详细信息",
+      "open_project_qrcode": "打开项目 {title} 的二维码",
+      "project_tag": "技术标签：{name}",
+      "more_tags": "还有 {count} 个技术标签"
+    }
+  }
+}

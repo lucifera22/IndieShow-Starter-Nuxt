@@ -1,0 +1,31 @@
+{
+  "description": "Nuxt template for Indie Show, no coding required, allowing you to focus on product creation.",
+  "copyright": "All Rights Reserved",
+  "icp": "",
+  "police": "",
+
+  "about": "About",
+  "privacy": "Privacy Policy",
+  "terms": "Terms of Service",
+  "sales": "Sales Terms",
+
+  "features": "Features",
+  "showcase": "My Works",
+
+  "support": "Technical Support",
+  "contact": "Contact Us",
+  "community": "User Community",
+
+  "social": {
+    "github": "GitHub",
+    "email": "Email Contact"
+  },
+
+  "friends": "Friend Links",
+  "friends_links": {
+    "0": {
+      "name": "WaveAny Inc.",
+      "url": "https://waveany.com"
+    }
+  }
+}

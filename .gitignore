@@ -1,0 +1,72 @@
+# Dependencies
+node_modules
+
+package-lock.json
+packages/*/README.md
+!packages/nuxi/README.md
+packages/*/LICENSE
+
+# Logs
+*.log
+
+# Temp directories
+.temp
+.tmp
+.cache
+
+
+# Generated dirs
+dist
+.nuxt
+.nuxt-*
+.vercel
+.netlify
+.output
+.output-*
+.gen
+
+
+# Coverage reports
+coverage
+*.lcov
+.nyc_output
+
+# VSCode
+
+# Intellij idea
+*.iml
+.idea
+!.idea/nuxt.iml
+!.idea/modules.xml
+!.idea/inspectionProfiles/Project_Default.xml
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+.vercel_build_output
+.build-*
+.env
+.netlify
+
+fixtures-temp
+.pnpm-store
+eslint-typegen.d.ts
+.eslintcache
