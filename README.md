@@ -9,10 +9,10 @@
 Crafted with a focus on developer experience: 🖥️ Nuxt 3 + 🛠️ TypeScript + 🎨 Tailwind CSS + 🌐 i18n + 📄 markdown-it + 🔍 ESLint + 🧩 simple-git-hooks + 🧹 Lint-Staged + 📝 Commitlint + ☁️ Vercel.
 Launch your global-ready web app with a sleek, performant, and SEO-optimized foundation.
 
-[![CI](https://github.com/WaveAny/IndieShow/actions/workflows/ci.yml/badge.svg)](https://github.com/WaveAny/IndieShow/actions/workflows/ci.yml)
-[![CD](https://github.com/WaveAny/IndieShow/actions/workflows/cd.yml/badge.svg)](https://github.com/WaveAny/IndieShow/actions/workflows/cd.yml)
-[![GitHub license](https://img.shields.io/github/license/WaveAny/IndieShow)](https://github.com/WaveAny/IndieShow/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/WaveAny/IndieShow)](https://github.com/WaveAny/IndieShow/stargazers)
+[![CI](https://github.com/WaveAny/IndieShow-Starter-Nuxt/actions/workflows/ci.yml/badge.svg)](https://github.com/WaveAny/IndieShow-Starter-Nuxt/actions/workflows/ci.yml)
+[![CD](https://github.com/WaveAny/IndieShow-Starter-Nuxt/actions/workflows/cd.yml/badge.svg)](https://github.com/WaveAny/IndieShow-Starter-Nuxt/actions/workflows/cd.yml)
+[![GitHub license](https://img.shields.io/github/license/WaveAny/IndieShow-Starter-Nuxt)](https://github.com/WaveAny/IndieShow-Starter-Nuxt/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/WaveAny/IndieShow-Starter-Nuxt)](https://github.com/WaveAny/IndieShow-Starter-Nuxt/stargazers)
 [![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org)
 [![pnpm Version](https://img.shields.io/badge/pnpm-%3E%3D8.0.0-blue)](https://pnpm.io)
 [![Nuxt Version](https://img.shields.io/badge/nuxt-3.15.4-00DC82.svg?logo=nuxt.js)](https://nuxt.com)
@@ -160,7 +160,7 @@ IndieShow/
 1. **Clone Project**
 
 ```bash
-git clone https://github.com/WaveAny/IndieShow.git
+git clone https://github.com/WaveAny/IndieShow-Starter-Nuxt.git
 cd IndieShow
 pnpm install
 ```
@@ -191,7 +191,7 @@ pnpm preview
 
 Recommended deployment with Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/WaveAny/IndieShow)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/WaveAny/IndieShow-Starter-Nuxt)
 
 ## 🤔 FAQ
 
@@ -229,7 +229,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📮 Contact
 
-- GitHub Issues: [Submit Issues](https://github.com/WaveAny/IndieShow/issues)
+- GitHub Issues: [Submit Issues](https://github.com/WaveAny/IndieShow-Starter-Nuxt/issues)
 - Email: <suppore@waveany.com>
 
 ## 📈 Project Statistics''
@@ -256,4 +256,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=WaveAny/IndieShow&type=Date)](https://star-history.com/#WaveAny/IndieShow&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=WaveAny/IndieShow-Starter-Nuxt&type=Date)](https://star-history.com/#WaveAny/IndieShow-Starter-Nuxt&Date)

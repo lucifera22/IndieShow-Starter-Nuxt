@@ -9,10 +9,10 @@
 专注于开发体验: 🖥️ Nuxt 3 + 🛠️ TypeScript + 🎨 Tailwind CSS + 🌐 i18n + 📄 markdown-it + 🔍 ESLint + 🧩 simple-git-hooks + 🧹 Lint-Staged + 📝 Commitlint + ☁️ Vercel.
 通过这个优雅、高性能且SEO友好的基础框架，快速启动您的全球化Web应用。
 
-[![CI](https://github.com/WaveAny/IndieShow/actions/workflows/ci.yml/badge.svg)](https://github.com/WaveAny/IndieShow/actions/workflows/ci.yml)
-[![CD](https://github.com/WaveAny/IndieShow/actions/workflows/cd.yml/badge.svg)](https://github.com/WaveAny/IndieShow/actions/workflows/cd.yml)
-[![GitHub license](https://img.shields.io/github/license/WaveAny/IndieShow)](https://github.com/WaveAny/IndieShow/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/WaveAny/IndieShow)](https://github.com/WaveAny/IndieShow/stargazers)
+[![CI](https://github.com/WaveAny/IndieShow-Starter-Nuxt/actions/workflows/ci.yml/badge.svg)](https://github.com/WaveAny/IndieShow-Starter-Nuxt/actions/workflows/ci.yml)
+[![CD](https://github.com/WaveAny/IndieShow-Starter-Nuxt/actions/workflows/cd.yml/badge.svg)](https://github.com/WaveAny/IndieShow-Starter-Nuxt/actions/workflows/cd.yml)
+[![GitHub license](https://img.shields.io/github/license/WaveAny/IndieShow-Starter-Nuxt)](https://github.com/WaveAny/IndieShow-Starter-Nuxt/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/WaveAny/IndieShow-Starter-Nuxt)](https://github.com/WaveAny/IndieShow-Starter-Nuxt/stargazers)
 [![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org)
 [![pnpm Version](https://img.shields.io/badge/pnpm-%3E%3D8.0.0-blue)](https://pnpm.io)
 [![Nuxt Version](https://img.shields.io/badge/nuxt-3.15.4-00DC82.svg?logo=nuxt.js)](https://nuxt.com)
@@ -160,7 +160,7 @@ IndieShow/
 1. **克隆项目**
 
 ```bash
-git clone https://github.com/WaveAny/IndieShow.git
+git clone https://github.com/WaveAny/IndieShow-Starter-Nuxt.git
 cd IndieShow
 pnpm install
 ```
@@ -191,7 +191,7 @@ pnpm preview
 
 推荐使用Vercel部署：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/WaveAny/IndieShow)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/WaveAny/IndieShow-Starter-Nuxt)
 
 ## 🤔 常见问题
 
@@ -229,7 +229,7 @@ export const themeColors = {
 
 ## 📮 联系方式
 
-- GitHub问题: [提交问题](https://github.com/WaveAny/IndieShow/issues)
+- GitHub问题: [提交问题](https://github.com/WaveAny/IndieShow-Starter-Nuxt/issues)
 - 电子邮件: <suppore@waveany.com>
 
 ## 📈 项目统计''
@@ -256,4 +256,4 @@ export const themeColors = {
 
 ## 📈 Star历史
 
-[![Star历史图表](https://api.star-history.com/svg?repos=WaveAny/IndieShow&type=Date)](https://star-history.com/#WaveAny/IndieShow&Date)
+[![Star历史图表](https://api.star-history.com/svg?repos=WaveAny/IndieShow-Starter-Nuxt&type=Date)](https://star-history.com/#WaveAny/IndieShow-Starter-Nuxt&Date)
